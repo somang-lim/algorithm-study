@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+// 실버 3
+// ⏰ 444ms
 public class Q1929_소수_구하기 {
 
     public static void main(String[] args) throws IOException {
